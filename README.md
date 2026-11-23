@@ -198,4 +198,4 @@ This is a local, single-user project. The browser engine handles standard, same-
 
 Use fictional fixtures for contributions and run the tests and publication scanner before proposing changes. Avoid including applicant data, credentials, employer receipts, and live submission activity in tests.
 
-Smartplier is distributed under the [MIT License](LICENSE). It is provided as is and was built with AI assistance.
+Smartplier is distributed under the [MIT License](LICENSE).
