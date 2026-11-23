@@ -1,4 +1,4 @@
-# Smartplier
+# SmartPlier
 
 A local job-application workspace for finding relevant roles, tailoring evidence-based resumes, and tracking outreach and applications.
 
@@ -10,7 +10,7 @@ A local job-application workspace for finding relevant roles, tailoring evidence
 
 ## Why Smartplier exists
 
-Applying selectively takes time. Smartplier connects discovery, fit assessment, resume tailoring, outreach, and tracking so you can review the evidence behind a decision before applying. It is designed for individual workflows with local storage and configurable review gates.
+Applying jobs selectively takes time and effort. Smartplier connects discovery, fit assessment, resume tailoring, outreach, and tracking so you can review the evidence behind a decision before applying. It is designed for individual workflows with local storage and configurable review gates.
 
 ## Demo
 
