@@ -1,0 +1,13 @@
+{
+  "companies": [],
+  "rss": [],
+  "adzuna": {
+    "enabled": false,
+    "queries": []
+  },
+  "gmail": {
+    "enabled": false,
+    "mailbox": "INBOX"
+  },
+  "filter_target_roles": true
+}

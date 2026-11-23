@@ -1,0 +1,252 @@
+[
+  [
+    "src/smartplier/discovery_mail.py",
+    "Employer application URL",
+    "1f78ab519b4a40db7fc853cd8accbeef46a8f6d610462b0e8148f08bf9ee0bc2"
+  ],
+  [
+    "src/smartplier/discovery_mail.py",
+    "Employer application URL",
+    "348a697da57522d2af756193f49fc12fc0845cad6604910ba0fd2bbead3bdfcb"
+  ],
+  [
+    "src/smartplier/discovery_mail.py",
+    "Employer application URL",
+    "49a8a01b7d0d41b6aac94e39519ce990cc1e1835e59653bc10d05314d474cc11"
+  ],
+  [
+    "src/smartplier/discovery_sources.py",
+    "Employer application URL",
+    "48c4ac4b1ead80e179817417ca24092d94a8fa8cb4e80413223823518cf3996b"
+  ],
+  [
+    "src/smartplier/freshness.py",
+    "Employer application URL",
+    "12f80b6968b0ef0c929f018151a910973e50d7d5ffada5771c879337b198f220"
+  ],
+  [
+    "tests/test_analytics_prefill.py",
+    "Employer application URL",
+    "8ba36060305229db7110f41e59bd57d1bec1a6c61f39d7c1ca4dddc42f973f73"
+  ],
+  [
+    "tests/test_analytics_prefill.py",
+    "Employer application URL",
+    "abf80340c176cbdc21a1c8597a6c9b0cf15184b566beb6aed0cd7a0aefde754f"
+  ],
+  [
+    "tests/test_analytics_prefill.py",
+    "Non-example email",
+    "1487a94ba87b585e00cc43c194c36d80c204a68442cae0283cea37a354d510c1"
+  ],
+  [
+    "tests/test_auto_apply.py",
+    "Employer application URL",
+    "bd6cabe4a7fba6b9bd6ad2a54125835509e0c391eb7a0792439a548d67e53fd5"
+  ],
+  [
+    "tests/test_automation.py",
+    "Employer application URL",
+    "8a6b3b2bcdcd24a48e7e7f4cbf372352d741225314ff719f2ec3b9005f1113c5"
+  ],
+  [
+    "tests/test_automation.py",
+    "Non-example email",
+    "09374a695d9f1643974e5aeb9cb959f83c30c3e6ac4267459de4541e73462dbd"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "0a62997706485651d7a400e9954600c04b482df45f183d053a53df44c0efb2ba"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "1a45e2107613ad9a4c3f27c68eb3f8c16d6459740fa359c06f3d4288d67f577c"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "22ff7306cafbf4fade7928517b1fa9017045ac90b7e1ebdefe0efde424ad305c"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "35f0432fbe2e1dc9a85ea2f04d47459a4c0f2b747d333485b469a048bf631e61"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "3c67e1817be9f0778bad738df054d661ba82f0c9504ee0abeb44dc3e704efa00"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "44eb94a0e6093dde2ff93971d5519c2b68aad6fc9a1ac160597fd74922309b82"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "53b091fd57cb08ca0204f8176671d9b5fc42e4d236e30b516308bfa0c530ab01"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "541d1fa4a593bb983022b3176312483aa5f7fc707b80187a33147aedda385d3b"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "5cab060ae7dcd98e0b237c8b8e4e8839fd34444077317506f9178f639f4e8598"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "6511fb27eebdbfe395e6bce7203132cbae71aa31b0ce358b971356252d733695"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "66a36e7b8092f8d73344798fb789424275051475f3a69e041833f4962b7f0eb1"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "8486127dcd0bdfc1aada3bb3fadcaded5d6c80dfc84412761f0ccad979328e98"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "88cfc9df20e8f2f9b4d7780ab9bdf70d579de67be42f2d3d3c66672e481e43ea"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "8d75749aa33db120e054676e0bb52e6f4cbf69359cb7e1359653fa7a885ed9a5"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "aad157c1abb97a0fe1e0304f9afdf7d92a18fae2684de3ee22412af83b167ed6"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "ae1a899768675652ee231d92728d945b0da244d6acea41331ee79289595f2f49"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "b4103f44cbfb8a05f75fbbb65841566ad75071decf3dbf0280bc465fa5dab0ff"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "c1e480b2a9286bf379119f3e84275fd7538ca587ee90aefe87130faf629fc6de"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "d29a1c13af833b2e336f3a3b440781b9f29bbdf7ff5d71980039cf800727dcc8"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Employer application URL",
+    "e26336efb9aad24fa4a30fdc06f94213c3cd3675da866c3b8154ed606a1394ba"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Non-example email",
+    "26287a23946df2f41228e5811a053c178a85811b77b1a33d4886b43a15479152"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Non-example email",
+    "537d6c38deffc71073856da41593303b594321267cd82959625f4ced8ada2fe3"
+  ],
+  [
+    "tests/test_discovery.py",
+    "Non-example email",
+    "88cfc9df20e8f2f9b4d7780ab9bdf70d579de67be42f2d3d3c66672e481e43ea"
+  ],
+  [
+    "tests/test_form_engine.py",
+    "Employer application URL",
+    "1bac68fd82f5835ce51cd6b271607fe08d9a23f550d278fe297fbcb8482d916d"
+  ],
+  [
+    "tests/test_form_engine.py",
+    "Employer application URL",
+    "4befcf13436d5480fd3e7a443720df233d516010cd5389b0422800f98665cf50"
+  ],
+  [
+    "tests/test_form_engine.py",
+    "Employer application URL",
+    "72c7a655fd01a3f432d90e6da66df9ed4f96ed78e3982dcd74023e2270485939"
+  ],
+  [
+    "tests/test_form_engine.py",
+    "Employer application URL",
+    "7e89bba4a129d6fee4b006611555b3996d9357dd49c516011f3448499ea70a38"
+  ],
+  [
+    "tests/test_form_engine.py",
+    "Employer application URL",
+    "8a892e1ad99517605be7bb0e50e9a71b5b96eabe80d983fe267a880883f1cebc"
+  ],
+  [
+    "tests/test_form_engine.py",
+    "Employer application URL",
+    "f66d2b5f67af4b313bbb70a039bcc130deb181a4936e46ba61598e11a89cf052"
+  ],
+  [
+    "tests/test_freshness.py",
+    "Employer application URL",
+    "0787e40d73c8cb85f5a093a4318d8cb8d7f43b6a2bf3cdae651583176052a58e"
+  ],
+  [
+    "tests/test_freshness.py",
+    "Employer application URL",
+    "ef2156e01f90bea439b3fa139dc2c4fbe1d4d108afb359997925862d27a6f0b3"
+  ],
+  [
+    "tests/test_legacy_dashboard.py",
+    "Public profile URL",
+    "9b03e9bf8146dabc2783d059b39711268337558eade95bc3061d02ced607d402"
+  ],
+  [
+    "tests/test_legacy_dashboard.py",
+    "Public profile URL",
+    "b005c829e1b05f248813db62e397582ec681bcfd25afd916f7906e02a7b86ab3"
+  ],
+  [
+    "tests/test_scoring_cli.py",
+    "Public profile URL",
+    "2972ee63a4103ddbed8b8bdae3ff2f2facd1de18ca28d9042af679dcdc7f31a1"
+  ],
+  [
+    "tests/test_scoring_cli.py",
+    "Public profile URL",
+    "308924f2796121844fb79053c146313eb089a934eaf8edcf19ca74bbd31c7bbb"
+  ],
+  [
+    "tests/test_scoring_cli.py",
+    "Public profile URL",
+    "3250306a78a8cad62c3f0a098e11a5f62d8e684c62fec944b7b7673f44000372"
+  ],
+  [
+    "tests/test_scoring_cli.py",
+    "Public profile URL",
+    "abe8114b1993d4f3283c519b17a44bb69f3aa6d502684ccba262f19f3e10f656"
+  ],
+  [
+    "tests/test_scoring_cli.py",
+    "Public profile URL",
+    "c637827c6a4c9001364f7246d9753b4adf5542991a9920f7fb583ac2b6e96e07"
+  ],
+  [
+    "tests/test_scoring_cli.py",
+    "Public profile URL",
+    "c8a04d240479b320112f2e6da369453bc9292e690d9d163f88df667226c9d583"
+  ]
+]

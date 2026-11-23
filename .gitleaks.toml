@@ -1,0 +1,11 @@
+title = "Smartplier"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "gmail-app-password-assignment"
+description = "Gmail app password assigned to a variable"
+regex = '''(?i)\bGMAIL_APP_PASSWORD\b\s*=\s*["']?([a-z]{16}|(?:[a-z]{4} ){3}[a-z]{4})\b'''
+secretGroup = 1
+keywords = ["gmail_app_password"]

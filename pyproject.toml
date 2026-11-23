@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smartplier"
+version = "0.1.0"
+description = "A local toolkit for selective job applications."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+browser = ["playwright==1.65.2"]
+
+[project.scripts]
+smartplier = "smartplier.jobhunt:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+smartplier = ["dashboard.css"]

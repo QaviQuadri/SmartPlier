@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Casey Wrenfield",
+    "first_name": "Casey",
+    "last_name": "Wrenfield",
+    "email": "casey@example.com",
+    "phone": "+1 202-555-0142",
+    "location": "Remote",
+    "linkedin": "example.com/profiles/casey",
+    "github": "example.org/projects/casey",
+    "portfolio": "https://example.com/casey",
+    "summary": "Software developer focused on Python services, data quality, and practical machine learning. Builds example projects with clear interfaces and repeatable tests."
+  },
+  "preferences": {
+    "target_roles": [
+      "Python Developer",
+      "Backend Developer",
+      "Machine Learning Engineer",
+      "Data Analyst"
+    ],
+    "seniority": "entry-level",
+    "location_tiers": {
+      "1": [
+        "remote"
+      ],
+      "2": [],
+      "3": []
+    },
+    "open_to_remote": true,
+    "salary_floor": null,
+    "deal_breakers": [],
+    "avoid_companies": [],
+    "min_score_to_apply": 70,
+    "experience_level": "entry-level"
+  },
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Docker",
+    "SQL",
+    "XGBoost",
+    "RAG",
+    "Git",
+    "pandas"
+  ],
+  "skill_groups": {
+    "Languages": [
+      "Python",
+      "SQL"
+    ],
+    "Machine Learning": [
+      "XGBoost",
+      "RAG"
+    ],
+    "Backend & APIs": [
+      "FastAPI"
+    ],
+    "Tools": [
+      "Docker",
+      "Git",
+      "pandas"
+    ]
+  },
+  "experience": [
+    {
+      "id": "lumen-intern",
+      "company": "Lumen Finch Labs",
+      "title": "Software Engineering Intern",
+      "start": "May 2024",
+      "end": "Aug 2024",
+      "tech": [
+        "Python",
+        "XGBoost"
+      ],
+      "bullets": [
+        {
+          "id": "lumen-pipelines",
+          "text": "Wrote a batch validator for simulated telescope readings and reduced invalid rows by 30%."
+        },
+        {
+          "id": "lumen-models",
+          "text": "Evaluated XGBoost on fictional energy demand records using time-based validation."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "harbor",
+      "name": "Harbor Signal",
+      "link": "https://example.com/projects/harbor",
+      "tech": [
+        "Python",
+        "RAG"
+      ],
+      "bullets": [
+        {
+          "id": "harbor-rag",
+          "text": "Built RAG-based alert summaries from a fictional harbor operations handbook."
+        }
+      ]
+    },
+    {
+      "id": "lantern",
+      "name": "Lantern Lab",
+      "link": "https://example.com/projects/lantern",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "Docker"
+      ],
+      "bullets": [
+        {
+          "id": "lantern-api",
+          "text": "Served synthetic sensor forecasts through a small FastAPI service."
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Northwind Technical Institute",
+      "degree": "B.S. in Computer Science",
+      "year": "2021\u20132025",
+      "gpa": "3.6 / 4.0"
+    }
+  ],
+  "stories": [
+    {
+      "id": "harbor-evaluation",
+      "evidence_ids": [
+        "harbor-rag"
+      ],
+      "text": "Compared sample harbor alerts against a fictional operations handbook and checked their citations."
+    }
+  ],
+  "verified_screening_answers": {}
+}
